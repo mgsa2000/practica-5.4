@@ -122,4 +122,4 @@ jobs:
           ![](imagenes/10.png)
 ejecutamos la aplicacion web con el siguiente comando:
 
-docker run -d --name webserver --rm -p 80:80 stratachan3/2048
+ docker run -d --name stratachan3 --rm -p 80:80 stratachan3/2048

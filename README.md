@@ -107,7 +107,7 @@ jobs:
           tags: ${{ env.REGISTRY }}/${{ secrets.DOCKERHUB_USERNAME }}/${{ env.IMAGE_NAME }}:${{ env.IMAGE_TAG }}
           cache-from: type=gha
           cache-to: type=gha,mode=max          
-          ´´´´
+  ´´´´
 
           en el script hay dos variables que tendran que definirse en el apartado secret.
 
@@ -120,3 +120,6 @@ jobs:
 
     
           ![](imagenes/10.png)
+
+          d
+          dd
